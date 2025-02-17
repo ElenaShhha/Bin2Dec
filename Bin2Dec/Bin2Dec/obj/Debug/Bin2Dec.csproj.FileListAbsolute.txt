@@ -1,0 +1,6 @@
+c:\users\e_shabalina\documents\visual studio 2013\Bin2Dec\Bin2Dec\bin\Debug\Bin2Dec.exe.config
+c:\users\e_shabalina\documents\visual studio 2013\Bin2Dec\Bin2Dec\bin\Debug\Bin2Dec.exe
+c:\users\e_shabalina\documents\visual studio 2013\Bin2Dec\Bin2Dec\bin\Debug\Bin2Dec.pdb
+c:\users\e_shabalina\documents\visual studio 2013\Bin2Dec\Bin2Dec\obj\Debug\Bin2Dec.csprojResolveAssemblyReference.cache
+c:\users\e_shabalina\documents\visual studio 2013\Bin2Dec\Bin2Dec\obj\Debug\Bin2Dec.exe
+c:\users\e_shabalina\documents\visual studio 2013\Bin2Dec\Bin2Dec\obj\Debug\Bin2Dec.pdb

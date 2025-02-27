@@ -1,4 +1,5 @@
 ENG
+
 The Bin2Dec project is a tool designed to convert binary numbers (base 2) into their decimal equivalents (base 10). This project was created to help developers gain a better understanding of how binary calculations work, which is the foundation of all digital computers. Key Features of the Project:
 1. Binary Input: The user can enter strings of up to 8 binary digits (0s and 1s) into a single input field.
 2. Input Validation: If the user enters anything other than 0 or 1, the system notifies them of the error.
@@ -12,6 +13,7 @@ Bonus Features. Variable Input Length: The user can enter binary numbers of vari
 The project was implemented in compliance with all the specified constraints and requirements. User input is validated for correctness, and if the input is valid, the program calculates the decimal value of the binary number using a mathematical function. The result is displayed in the output field, allowing the user to immediately see the conversion result.
 
 RUS
+
 Проект Bin2Dec представляет собой инструмент для преобразования двоичных чисел (с основанием 2) в их десятичные эквиваленты (с основанием 10). Этот проект разработан для того, чтобы помочь разработчикам лучше понять, как работают двоичные вычисления, что является основой всех цифровых компьютеров. Основные функции проекта:
 1. Ввод двоичных чисел. Пользователь может вводить строки длиной до 8 двоичных цифр (0 и 1) в одно поле ввода.
 2. Проверка ввода. Если пользователь вводит что-то, кроме 0 или 1, система уведомляет его об ошибке.

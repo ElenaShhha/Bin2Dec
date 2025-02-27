@@ -8,7 +8,8 @@ Constraints Followed:
 1. No Arrays: Arrays were not used to store the binary digits entered by the user.
 2. Mathematical Function: A single mathematical function (e.g., natural logarithm) was used to calculate the decimal equivalent of each binary digit in the sequence.
 
-Bonus Features. Variable Input Length: The user can enter binary numbers of variable length, not limited to 8 digits. The project was implemented in compliance with all the specified constraints and requirements. User input is validated for correctness, and if the input is valid, the program calculates the decimal value of the binary number using a mathematical function. The result is displayed in the output field, allowing the user to immediately see the conversion result.
+Bonus Features. Variable Input Length: The user can enter binary numbers of variable length, not limited to 8 digits. 
+The project was implemented in compliance with all the specified constraints and requirements. User input is validated for correctness, and if the input is valid, the program calculates the decimal value of the binary number using a mathematical function. The result is displayed in the output field, allowing the user to immediately see the conversion result.
 
 RUS
 Проект Bin2Dec представляет собой инструмент для преобразования двоичных чисел (с основанием 2) в их десятичные эквиваленты (с основанием 10). Этот проект разработан для того, чтобы помочь разработчикам лучше понять, как работают двоичные вычисления, что является основой всех цифровых компьютеров. Основные функции проекта:
@@ -20,4 +21,5 @@ RUS
 1. Запрет на использование массивов. Для хранения двоичных цифр, введенных пользователем, массивы не использовались.
 2. Математическая функция. Для вычисления десятичного эквивалента каждой двоичной цифры в последовательности использовалась одна математическая функция.
   
-Дополнительные функции. Переменная длина ввода. Пользователь может вводить двоичные числа переменной длины, не ограничиваясь 8 цифрами. Проект был реализован с учетом всех указанных ограничений и требований. Ввод пользователя проверяется на корректность, и если ввод корректен, программа вычисляет десятичное значение двоичного числа с использованием математической функции. Результат отображается в поле вывода, что позволяет пользователю сразу увидеть результат преобразования.
+Дополнительные функции. Переменная длина ввода: пользователь может вводить двоичные числа переменной длины, не ограничиваясь 8 цифрами. 
+Проект был реализован с учетом всех указанных ограничений и требований. Ввод пользователя проверяется на корректность, и если ввод корректен, программа вычисляет десятичное значение двоичного числа с использованием математической функции. Результат отображается в поле вывода, что позволяет пользователю сразу увидеть результат преобразования.

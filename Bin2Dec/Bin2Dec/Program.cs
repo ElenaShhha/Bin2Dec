@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -15,16 +15,16 @@ namespace Bin2Dec
             {
                 valueBin = Input();
             }
-            while (IsBinary(valueBin) == false || valueBin.Length >= 8);
+            while (IsBinary(valueBin) == false);
 
 
             int n = valueBin.Length - 1;
-            int result = 0;
+            long result = 0;
 
             foreach (char c in valueBin)
             {
-                int charToInt = c - '0';
-                result = result + charToInt * Convert.ToInt16(Math.Pow(2, n));
+                long сharToInt = (long)c - '0';
+                result = result + сharToInt * (long)(Math.Pow(2, n));
                 n--;
             }
             System.Console.WriteLine("Число в десятичной степени - {0}", result);
